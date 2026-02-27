@@ -41,9 +41,9 @@ If you are interested in contributing (fixing bugs, improving features, or creat
 
 ## Report Bugs and Feature Requests
 
-File a [bug report](https://github.com/sadanandpai/resume-builder/issues/new?assignees=sadanandpai&labels=&template=bug_report.md&title=) or [feature request](https://github.com/sadanandpai/resume-builder/issues/new?assignees=sadanandpai&labels=&template=feature_request.md&title=) using the [New Issues](https://github.com/sadanandpai/resume-builder/issues/new/choose) page.
+File a [bug report](https://github.com/enigma-137/resume-builder/issues/new?assignees=sadanandpai&labels=&template=bug_report.md&title=) or [feature request](https://github.com/enigma-137/resume-builder/issues/new?assignees=sadanandpai&labels=&template=feature_request.md&title=) using the [New Issues](https://github.com/enigma-137/resume-builder/issues/new/choose) page.
 
-[View all issues.](https://github.com/sadanandpai/resume-builder/issues)
+[View all issues.](https://github.com/enigma-137/resume-builder/issues)
 
 ## Core Contributors
 

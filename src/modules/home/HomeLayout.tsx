@@ -56,7 +56,7 @@ const HomeLayout = () => {
           </Link>
           <div className="flex items-center gap-2 md:gap-3">
             <a
-              href="https://github.com/sadanandpai/resume-builder"
+              href="https://github.com/enigma-137/resume-builder"
               target="_blank"
               rel="noreferrer"
               className="rounded-full border border-black px-3 py-2 text-xs font-medium transition hover:bg-black hover:text-white md:px-4"
@@ -98,7 +98,7 @@ const HomeLayout = () => {
                 Start Building
               </Link>
               <a
-                href="https://github.com/sadanandpai/resume-builder"
+                href="https://github.com/enigma-137/resume-builder"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-full border border-black px-6 py-3 text-sm font-medium transition hover:bg-black hover:text-white"
@@ -159,7 +159,7 @@ const HomeLayout = () => {
               the codebase, propose improvements, and add your own template.
             </motion.p>
             <motion.a
-              href="https://github.com/sadanandpai/resume-builder"
+              href="https://github.com/enigma-137/resume-builder"
               target="_blank"
               rel="noreferrer"
               className="mt-8 inline-block rounded-full border border-white px-5 py-2.5 text-sm font-medium transition hover:bg-white hover:text-black"

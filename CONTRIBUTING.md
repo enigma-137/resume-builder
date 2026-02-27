@@ -4,9 +4,9 @@ Review the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Where to start
 
-View [issues tagged with the _Good First Issues_ label](https://github.com/sadanandpai/resume-builder/labels/good%20first%20issue) to find good first feature requests and bugs to fix.
+View [issues tagged with the _Good First Issues_ label](https://github.com/enigma-137/resume-builder/labels/good%20first%20issue) to find good first feature requests and bugs to fix.
 
-Visit https://github.com/sadanandpai/resume-builder/issues to view all issues.
+Visit https://github.com/enigma-137/resume-builder/issues to view all issues.
 
 ---
 
@@ -20,7 +20,7 @@ Run the environment locally or in Docker by following the instructions at [Runni
 
 ### Creating a template
 
-TODO(sadanandpai): Per issue https://github.com/sadanandpai/resume-builder/issues/175, add instructions for how to create a template.
+TODO(sadanandpai): Per issue https://github.com/enigma-137/resume-builder/issues/175, add instructions for how to create a template.
 
 ---
 

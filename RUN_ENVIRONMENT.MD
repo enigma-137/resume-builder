@@ -5,7 +5,7 @@
 1. Open the terminal / command prompt in your system
 1. Clone the repo
    ```
-   $ git clone https://github.com/sadanandpai/resume-builder.git
+   $ git clone https://github.com/enigma-137/resume-builder.git
    ```
 1. Install the dependencies
    ```
@@ -24,7 +24,7 @@ Prequisite: Install [Docker](https://docs.docker.com/engine/install/).
 1. Open the terminal / command prompt in your system
 1. Clone the repo
    ```
-   $ git clone https://github.com/sadanandpai/resume-builder.git
+   $ git clone https://github.com/enigma-137/resume-builder.git
    ```
 1. Run the below command in the terminal from within the cloned project directory
 
