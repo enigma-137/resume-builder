@@ -11,7 +11,7 @@ export const GLOBAL_MUI_THEME = createTheme({
       500: '#59748F',
       600: '#4C667E',
       700: '#3C5268',
-      800: '#2E4052',
+      800: '#000000ff',
       900: '#1C2C3A',
     },
     primary: {

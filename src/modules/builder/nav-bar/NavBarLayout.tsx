@@ -140,7 +140,7 @@ const NavBarLayout = () => {
   }, []);
 
   return (
-    <nav className="h-14 w-full bg-resume-800 relative flex py-2.5 pl-2 md:pl-5 pr-1 nd:pr-4 items-center shadow-level-8dp z-20 print:hidden">
+    <nav className="h-14 w-full bg-black relative flex py-2.5 pl-2 md:pl-5 pr-1 nd:pr-4 items-center shadow-level-8dp z-20 print:hidden">
       <Link href="/">
         <Image
           src={'https://cdn-icons-png.flaticon.com/128/3135/3135800.png'}
