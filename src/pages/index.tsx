@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <div>
       <Head>
-        <title>E-Resume: Home</title>
+        <title>x-resume: Home</title>
         <meta name="description" content="Single Page Resume Builder" />
         <link
           rel="icon"

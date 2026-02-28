@@ -8,8 +8,8 @@
 
 https://resume-builder-ai-30.vercel.app
 
-[![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
+[![](https://img.shields.io/github/stars/sadanandpai/single-pagx-resume-builder?style=for-the-badge)](#stars)
+[![](https://img.shields.io/github/forks/sadanandpai/single-pagx-resume-builder?style=for-the-badge)](#forks)
 
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Material React](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
@@ -33,7 +33,7 @@ Features:
 
 > Disclaimer: To enhance the vision and usage, we are shadowing our user's interactions. This is solely performed to serve you better
 
-Learn more about our design in the [_E-Resume — Build a professional resume: Design case study_ Medium post.](https://uxplanet.org/e-resume-build-a-professional-resume-design-case-study-3dc02a6359ea)
+Learn more about our design in the [_x-resume — Build a professional resume: Design case study_ Medium post.](https://uxplanet.org/x-resume-build-a-professional-resume-design-case-study-3dc02a6359ea)
 
 ## Contributing Guide
 
