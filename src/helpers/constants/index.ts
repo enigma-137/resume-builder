@@ -42,6 +42,14 @@ export const AVAILABLE_TEMPLATES: ITemplate = {
       ssr: false,
     }),
   },
+  executive: {
+    id: 'executive',
+    name: 'Executive Resume',
+    thumbnail: '/templates/executive.png',
+    component: dynamic(() => import('@/templates/executive/ExecutiveTemplate'), {
+      ssr: false,
+    }),
+  },
 };
 
 export const CUSTOM_THEME_COLOR: IThemeColor = {

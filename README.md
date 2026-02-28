@@ -4,9 +4,9 @@
 
 ### Free and open source, fully customizable professional single page resume builder
 
-<a href="https://e-resume.vercel.app/"><img src="https://user-images.githubusercontent.com/12962887/201484876-75290af9-ccd6-4f6d-be96-6a8fb4f20c4b.png" alt="get started with resume builder" height="200" widdth="330" />
+<a href="https://resume-builder-ai-30.vercel.app/"><img src="https://user-images.githubusercontent.com/12962887/201484876-75290af9-ccd6-4f6d-be96-6a8fb4f20c4b.png" alt="get started with resume builder" height="200" widdth="330" />
 
-https://e-resume.vercel.app
+https://resume-builder-ai-30.vercel.app
 
 [![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
 [![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
@@ -20,7 +20,7 @@ https://e-resume.vercel.app
 
 ## About
 
-[Resume Builder](https://e-resume.vercel.app) is an open-source application where one can effectively build a single-page professional resume.
+[Resume Builder](https://resume-builder-ai-30.vercel.app) is an open-source application where one can effectively build a single-page professional resume.
 
 Visit our [User Guide](USER_GUIDE.md) to start building!
 
