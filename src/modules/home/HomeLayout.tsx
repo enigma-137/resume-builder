@@ -121,7 +121,7 @@ const HomeLayout = () => {
             </div>
             <div className="p-4 md:p-8">
               <Image
-                src="/icons/example.png"
+                src="/icons/image.png"
                 alt="Resume preview"
                 width={1180}
                 height={760}
