@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jane Doe",
     "label": "Frontend Engineer",
-    "image": "https://randomuser.me/api/portraits/men/18.jpg",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg",
     "email": "janedoe@email.com",
     "phone": "+234-904067292",
     "url": "https://resume-builder-ai-30.vercel.app",
@@ -20,18 +20,18 @@
     "profiles": [
       {
         "network": "linkedin",
-        "username": "sadanandpai",
-        "url": "https://www.linkedin.com/in/sadanandpai/"
+        "username": "enigma-137",
+        "url": "https://www.linkedin.com/in/enigma-137/"
       },
       {
         "network": "twitter",
-        "username": "sadanand_pai",
-        "url": "https://x.com/sadanand_pai"
+        "username": "nigmaQx",
+        "url": "https://x.com/nigmaQx"
       },
       {
         "network": "github",
-        "username": "sadanandpai",
-        "url": "https://github.com/sadanandpai/"
+        "username": "enigma-137",
+        "url": "https://github.com/enigma-137/"
       },
       {
         "network": "hackerrank",
@@ -40,18 +40,18 @@
       },
       {
         "network": "hackerearth",
-        "username": "sadanandpai",
-        "url": "https://www.hackerearth.com/sadanandpai/"
+        "username": "enigma-137",
+        "url": "https://www.hackerearth.com/enigma-137/"
       },
       {
         "network": "codechef",
-        "username": "sadanandpai",
-        "url": "https://www.codechef.com/sadanandpai/"
+        "username": "enigma-137",
+        "url": "https://www.codechef.com/enigma-137/"
       },
       {
         "network": "leetcode",
-        "username": "sadanandpai",
-        "url": "https://leetcode.com/sadanandpai/"
+        "username": "enigma-137",
+        "url": "https://leetcode.com/enigma-137/"
       }
     ]
   },

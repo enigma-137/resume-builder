@@ -20,7 +20,7 @@ Run the environment locally or in Docker by following the instructions at [Runni
 
 ### Creating a template
 
-TODO(sadanandpai): Per issue https://github.com/enigma-137/resume-builder/issues/175, add instructions for how to create a template.
+TODO(enigma-137): Per issue https://github.com/enigma-137/resume-builder/issues/175, add instructions for how to create a template.
 
 ---
 

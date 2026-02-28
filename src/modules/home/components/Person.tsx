@@ -5,8 +5,8 @@ const persons = [
     name: 'Sadanand Pai',
     role: 'Frontend Engineer',
     avatar: 'https://avatars.githubusercontent.com/u/12962887?v=4',
-    github: 'https://github.com/sadanandpai',
-    linkedin: 'https://www.linkedin.com/in/sadanandpai/',
+    github: 'https://github.com/enigma-137',
+    linkedin: 'https://www.linkedin.com/in/enigma-137/',
   },
   {
     name: 'Gopalakrishnan',

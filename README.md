@@ -8,8 +8,8 @@
 
 https://resume-builder-ai-30.vercel.app
 
-[![](https://img.shields.io/github/stars/sadanandpai/single-pagx-resume-builder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/single-pagx-resume-builder?style=for-the-badge)](#forks)
+[![](https://img.shields.io/github/stars/enigma-137/single-pagx-resume-builder?style=for-the-badge)](#stars)
+[![](https://img.shields.io/github/forks/enigma-137/single-pagx-resume-builder?style=for-the-badge)](#forks)
 
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Material React](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
@@ -41,13 +41,13 @@ If you are interested in contributing (fixing bugs, improving features, or creat
 
 ## Report Bugs and Feature Requests
 
-File a [bug report](https://github.com/enigma-137/resume-builder/issues/new?assignees=sadanandpai&labels=&template=bug_report.md&title=) or [feature request](https://github.com/enigma-137/resume-builder/issues/new?assignees=sadanandpai&labels=&template=feature_request.md&title=) using the [New Issues](https://github.com/enigma-137/resume-builder/issues/new/choose) page.
+File a [bug report](https://github.com/enigma-137/resume-builder/issues/new?assignees=enigma-137&labels=&template=bug_report.md&title=) or [feature request](https://github.com/enigma-137/resume-builder/issues/new?assignees=enigma-137&labels=&template=feature_request.md&title=) using the [New Issues](https://github.com/enigma-137/resume-builder/issues/new/choose) page.
 
 [View all issues.](https://github.com/enigma-137/resume-builder/issues)
 
 ## Core Contributors
 
-<a href="https://github.com/sadanandpai"><img src="https://avatars.githubusercontent.com/u/12962887" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/gopal1996"><img src="https://avatars.githubusercontent.com/u/22369081" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/vivek-nexus"><img src="https://avatars.githubusercontent.com/u/26523871" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/siva-kannan3"><img src="https://avatars.githubusercontent.com/u/60533560" alt="sadanand" height="75px" width="75px" /></a>
+<a href="https://github.com/enigma-137"><img src="https://avatars.githubusercontent.com/u/12962887" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/gopal1996"><img src="https://avatars.githubusercontent.com/u/22369081" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/vivek-nexus"><img src="https://avatars.githubusercontent.com/u/26523871" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/siva-kannan3"><img src="https://avatars.githubusercontent.com/u/60533560" alt="sadanand" height="75px" width="75px" /></a>
 
 ## License
 
