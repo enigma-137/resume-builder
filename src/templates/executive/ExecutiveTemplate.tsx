@@ -3,6 +3,7 @@ import { useResumeContext } from '@/modules/builder/resume/ResumeLayout';
 import { SectionValidator } from '@/helpers/common/components/ValidSectionRenderer';
 import { ProfileImage } from '@/helpers/common/components/ProfileImage';
 import { IWorkIntrf, IEducation, IItem, IAwards } from '@/stores/index.interface';
+import { HTMLRenderer } from '@/helpers/common/components/HTMLRenderer';
 
 const SectionHeader = ({ title }: { title: string }) => (
   <div className="mb-3 border-b-2 border-slate-800 pb-1 mt-6">
@@ -37,7 +38,6 @@ export default function ExecutiveTemplate() {
       </header>
 
       <div className="flex gap-10">
-        {/* Main Content */}
         <div className="flex-[2]">
           <SectionValidator value={resumeData.work}>
             <section>
@@ -51,10 +51,12 @@ export default function ExecutiveTemplate() {
                     </span>
                   </div>
                   <div className="text-sm font-semibold text-slate-700 mb-2 italic">{exp.name}</div>
-                  <p className="text-sm leading-relaxed mb-2">{exp.summary}</p>
+                  <HTMLRenderer htmlString={exp.summary} className="text-sm leading-relaxed mb-2" />
                   <ul className="list-disc list-inside text-sm space-y-1">
                     {exp.highlights.map((h: string, i: number) => (
-                      <li key={i}>{h}</li>
+                      <li key={i} className="inline-block w-full">
+                        <HTMLRenderer htmlString={h} className="inline" />
+                      </li>
                     ))}
                   </ul>
                 </div>
@@ -87,7 +89,10 @@ export default function ExecutiveTemplate() {
           <SectionValidator value={resumeData.basics.summary}>
             <section>
               <SectionHeader title="About" />
-              <p className="text-sm leading-relaxed italic">{resumeData.basics.summary}</p>
+              <HTMLRenderer
+                htmlString={resumeData.basics.summary}
+                className="text-sm leading-relaxed italic"
+              />
             </section>
           </SectionValidator>
 
@@ -128,9 +133,7 @@ export default function ExecutiveTemplate() {
                 {resumeData.awards.map((award: IAwards, index: number) => (
                   <div key={index} className="mb-3">
                     <div className="text-sm font-bold">{award.title}</div>
-                    <div className="text-xs text-slate-600 whitespace-pre-wrap">
-                      {award.summary}
-                    </div>
+                    <HTMLRenderer htmlString={award.summary} className="text-xs text-slate-600" />
                   </div>
                 ))}
               </section>
